@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+
+button{
+    margin-top: 50px;
+    float: right;
+    width: 200px;
+    height: 70px;
+    background-color: rgb(242, 206, 252);
+    border-radius: 10%;
+}
+
+.output{
+    float: right;
+    margin-top: 30px;
+    margin-left: 470px;
+}
